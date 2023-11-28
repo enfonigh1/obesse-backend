@@ -1,0 +1,6 @@
+{
+  "obesse": {
+    "port": 3001,
+    "db_name": "obesse"
+  }
+}
